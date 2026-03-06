@@ -15,7 +15,7 @@ const elements = {
 };
 
 // Global State
-let API_KEY = "API KEY";
+let API_KEY = "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";
 
 // Event Listeners
 elements.analyzeBtn.addEventListener('click', handleAnalysis);
