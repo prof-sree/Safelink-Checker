@@ -44,7 +44,7 @@ Installation
 Clone the repository:
 
 Bash
-git clone https://github.com/yourusername/safelink-checker.git
+git clone https://github.com/prof-sree/safelink-checker.git
 cd safelink-checker
 
 add your Groq API key to the app.js file:
